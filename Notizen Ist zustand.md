@@ -30,6 +30,7 @@ Generell muss die Siete in der Kalldorfer Vereinsgemeinschaft aktualisiert werde
   - E-Mail für Rückfragen? 
   - Was macht man da überhaupt (verweis auf Zeltlager etc. auch nciht schlecht)
   - Auf startseite Platz für Fotogalerie und Videos
+- Orientieren und evlt verlinken auf https://jugendfeuerwehr.de/
 
 ## Kinderfeuerwehr
 - Es sit prakltisch alles leer
